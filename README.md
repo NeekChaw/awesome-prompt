@@ -90,6 +90,7 @@
 - **一句话转情感描绘生成器**: [查看](./赛博李继刚/一句话转情感描绘生成器.md)
 - **一句话转视频生成器**: [查看](./赛博李继刚/一句话转视频生成器.md)
 - **李继刚 v3.1 / v4.0**: [查看](./赛博李继刚/v3.1精炼版.md) & [查看](./赛博李继刚/v4.0李继刚.md)
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 ---
 
